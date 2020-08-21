@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Pavan Suthar
+#### Angular | LCNC Platform Developer
+Web Developer + UI Designer (Prototype)
+Having Vision to become full-stack web app guy!
+Cloud new bie.
 
-<!--
-**pavansuthar/pavansuthar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: HTML 5 + CSS 3 | VanillaJS | ECMAScript | Angular with Bootsrap + Material Design
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning MongoDB  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
